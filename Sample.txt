@@ -1,0 +1,32 @@
+{
+    "agentID": 3,
+    "date": "2012/12/12",
+    "weight": "300g",
+    "qty": "3",
+    "totalValue":"1200LKR",
+    "serviceCompany":"Certis"
+}
+{
+    "agentID": 4,
+    "date": "2012/12/12",
+    "weight": "400g",
+    "qty": "1",
+    "totalValue":"200LKR",
+    "serviceCompany":"dhl"
+}
+{
+    "agentID": 5,
+    "date": "2012/12/12",
+    "weight": "100g",
+    "qty": "5",
+    "totalValue":"1000LKR",
+    "serviceCompany":"dhl"
+}
+{
+    "agentID": 6,
+    "date": "2012/12/12",
+    "weight": "300g",
+    "qty": "3",
+    "totalValue":"4000LKR",
+    "serviceCompany":"dhl"
+}
